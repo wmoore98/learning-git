@@ -1,4 +1,4 @@
 <?php
-    echo 'New category'
-    echo 'someone elses chang'
+    echo 'New category';
+    echo 'fixed someone else\'s change';
 ?>
